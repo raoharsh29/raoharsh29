@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am passionate about software development and alw
 - 🌱 I’m currently learning new programming languages and frameworks
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything related to software development
-- 📫 How to reach me: [harshrao822@gmai.com]
+- 📫 How to reach me: [harshrao822@gmail.com]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: A passionate gamer as well.
 
@@ -30,6 +30,6 @@ Bootstrap
 -Coursework:   Data structures and Algorithms, OOP, Computer Network, DBMS, Operating system,
 software design principles , cloud computing and security.
 
-Feel free to explore my repositories and contribute to any projects that interest you!
+##Feel free to explore my repositories and contribute to any projects that interest you!
 
-Thank you for visiting my profile! Have a great day! 😊
+##Thank you for visiting my profile! Have a great day! 😊
